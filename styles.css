@@ -65,3 +65,11 @@ footer {
     font-size: 13px;
     color: #777;
 }
+
+.logo img {
+    max-width: 220px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
