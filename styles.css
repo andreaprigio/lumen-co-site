@@ -67,9 +67,10 @@ footer {
 }
 
 .logo img {
-    max-width: 200px;
+    width: 180px;
     height: auto;
-    margin-bottom: 8px;
 }
+
+
 
 
